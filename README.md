@@ -1,4 +1,4 @@
-# mealQuest - Discover endless possibilities in the kitchen, your ultimate recipe destination!
+# MealQuest - Discover endless possibilities in the kitchen, your ultimate recipe destination!
 
 MealQuest is a recipe website where users can search for different kinds of recipes and find the necessary ingredients for each recipe item. The website also allows users to save their favorite recipe items to the local storage of their browser.
 
